@@ -1,6 +1,10 @@
 
 # Fibonnaci Sequence & Prime Numbers Generator.
 
+```python
+print("Hello world)
+```
+
 ### Author
  **[KEVIN KIPKEMOI.](https://github.com/JAREDKEVIN)**
 
