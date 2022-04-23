@@ -2,7 +2,7 @@
 # Fibonnaci Sequence & Prime Numbers Generator.
 
 ```python
-print("Hello world)
+print("Hello world")
 ```
 
 ### Author
